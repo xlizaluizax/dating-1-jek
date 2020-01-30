@@ -1,6 +1,7 @@
 ---
 layout: category
-title: Code
+title: Adult Sex Games
 slug: code
-description: A category for code related posts.
+description: All about adukt sex games
 ---
+
