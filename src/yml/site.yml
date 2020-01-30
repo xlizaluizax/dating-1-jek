@@ -10,4 +10,4 @@ tags:
 show_hero: true
 email: youremail@xyz.com
 disqus_username: disqus_username
-paginate: 10
+paginate: ''
