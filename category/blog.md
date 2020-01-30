@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Blog
+title: Adult Dating
 slug: blog
-description: A category for general blog posts.
+description: All about adult dating
 ---
 
