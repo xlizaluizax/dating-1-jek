@@ -1,12 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: xXxDatingxXx
+title: xXxDatingxXx ❤️ Hot Online Dating For Adults
+description: >-
+  xXxDatingxXx ❤️ Adult Sites Collection: Dating, Sex Games, Best Porn Sites. We
+  Are Adults! ❤️ Join Us Now!
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - adult
+  - dating
+  - adult dating
+show_hero: true
 email: youremail@xyz.com
 disqus_username: disqus_username
-show_hero: true
+paginate: 10
